@@ -1,6 +1,15 @@
+##Project Purpose
+
+This project is part of my journey learning Python and computer hardware.
+
+The goal is to not only build a working program, but to also document my progress as I improve 
+my coding skills, learn how PC components work, and gradually add better features over time
+
+
+
 #PC Part Solution
 
-A beginner python program designed to help users learn about PC hardware components
+A beginner-friendly Python project that helps users learn about PC hardware components while documenting my growth as a programmer.
 
 ##Features
 
